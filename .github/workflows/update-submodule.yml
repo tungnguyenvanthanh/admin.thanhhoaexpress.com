@@ -38,7 +38,7 @@ jobs:
 
       - name: Add CNAME
         run: |
-          echo "admin-haitran.ttvl.io.vn" > docs/CNAME
+          echo "admin.thanhhoaexpress.com" > docs/CNAME
 
       - name: Commit and push
         run: |
